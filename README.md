@@ -34,3 +34,4 @@ In the front view there is a capture of the person's face, where it is possible 
 
 ## Download the Dataset
 The datset annotations have been generated for YOLO and can be downloaded at the following link:
+https://drive.google.com/drive/folders/1vJ_FeODlzWD3s3dblOJeiMEB2b05Wubw?usp=sharing
