@@ -20,7 +20,13 @@ In the top view the following has been captured: hands, tools, and items to asse
 2. Release
 3. Screw
 
-These actions are performed with all the tools
+These actions are performed with all the tools. 
+The tools used in the experiments are the following:
+
+1. Wrench
+2. Allen Key
+3. Ratchet
+4. Screwdriver
 
 In the side view, the skeleton of the person has been labeled, where it is possible to analyze the posture of the person when executing the actions.
 
