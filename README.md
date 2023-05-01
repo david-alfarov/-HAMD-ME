@@ -31,3 +31,6 @@ The tools used in the experiments are the following:
 In the side view, the skeleton of the person has been labeled, where it is possible to analyze the posture of the person when executing the actions.
 
 In the front view there is a capture of the person's face, where it is possible to analyze if the person shows signs of fatigue while performing the work
+
+## Download the Dataset
+The datset annotations have been generated for YOLO and can be downloaded at the following link:
