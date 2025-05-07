@@ -35,3 +35,19 @@ In the front view there is a capture of the person's face, where it is possible 
 ## Download the Dataset
 The datset annotations have been generated for YOLO and can be downloaded at the following link:
 https://drive.google.com/drive/folders/1vJ_FeODlzWD3s3dblOJeiMEB2b05Wubw?usp=sharing
+## Download from Roboflow
+📦 Dataset Overview
+This dataset contains 2,405 annotated images captured from a top-down perspective in a manual assembly workstation. Each image includes bounding box annotations for various tools, components, and operator interactions.
+
+🔹 Dataset Split
+Training set: 2,220 images (92%)
+
+Validation set: 93 images (4%)
+
+Test set: 92 images (4%)
+
+The dataset is structured for computer vision tasks such as object detection, human-tool interaction analysis, and action recognition in industrial settings.
+
+🔗 Access
+The dataset is hosted on Roboflow and can be accessed and downloaded from the following link:
+https://universe.roboflow.com/universidad-de-costa-rica-ifroi/manufacturing-tool-detection/dataset/1
